@@ -1,4 +1,4 @@
-package tests.amazontest;
+package tests.tripadvisor;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -8,7 +8,7 @@ import pages.TripadvisorPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 
-public class C02_TripadvisorAnasayfa {
+public class C01_TripadvisorAnasayfa {
     @Test
     public void test01(){
         // Tripadvisor a anasayfaya git
